@@ -25,19 +25,16 @@ The PIZZAbite PCB probes are mounted on flexible metal arm and a powerful magnet
 The one of the kind "lift and drop" function takes away the need for annoying and complicated set screws. 
 Thanks to the extreme flexibility of the arms connected to the PIZZAbite PCBs, the compressible needle (a.k.a. PogoPin) maintain constant pressure at the probing point so even if the board is bumped into the probe tip will always stay in position. 
 
-
-
-
-
-
-
-
-
 ## Wanna Become a CERTIFIED HARDWARE HACKER?
 The 𝙊𝙛𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙃𝙖𝙧𝙙𝙬𝙖𝙧𝙚 𝙃𝙖𝙘𝙠𝙞𝙣𝙜 𝙏𝙧𝙖𝙞𝙣𝙞𝙣𝙜 is a Self-Paced training including Videos, a printed Workbook and a cool Hardware Hackit Kit. And... you get everything shipped home Worldwide! 🌍🔥😎<br>
 For more info... ➡ https://www.whid.ninja/store <br><br>
 
 [![WHID's Trainings](https://files.gandi.ws/64/2e/642e05f6-84e1-48fe-8a59-d678c7d635e3.PNG)](https://www.youtube.com/watch?v=zbUuBZJIHkE)
+
+## Open-Hardware & KiCAD
+Since someone may want to tweak PIZZAbite size... Attached you can find the KiCAD. You are welcome!
+![image](https://github.com/whid-injector/PIZZAbite/assets/26245612/41b53a16-4ccf-4095-9aed-831716df5f71)
+
 
 
 
