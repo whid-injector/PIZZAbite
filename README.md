@@ -12,10 +12,11 @@ The full kit is composed of:
   - PA100-B1 (Diameter 1mm) for the Large PIZZABite PCB- https://s.click.aliexpress.com/e/_DFOzwnp <br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/1c844e22-c30f-43bc-8c24-91da0a2053a0" width=50% height=50%/> <br>
  
-The PIZZAbite PCBs be printed on JLCPB:<br>
+The PIZZAbite PCBs be printed on JLCPCB:<br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/6514503c-7711-4ef0-b1b2-e5583e9b188e" width=30% height=30%/> <br>
 I tried 3 types of thicknesses... 1mm (white), 1.2mm (red) and 1.6mm (green). 
 All of them works fine and even the 1mm thick version is robust!
+Just upload the **gerber.zip** file on JLCPCB and you almost done ordering it. 👍
 
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/e1f14e8f-3b6b-4e64-b1ac-12da536d7565" width=30% height=30%/>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/e3de7300-aab1-4135-a37c-37620133ca9a" width=30% height=30%/> <br>
