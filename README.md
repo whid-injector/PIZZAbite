@@ -5,6 +5,8 @@ The full kit is composed of:
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/b2348bab-a76c-4ece-9b54-2b0c991d9c80" width=50% height=50%/> <br>
 * **The PCBite probes PCBs:** <br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/ab260c51-22e0-413a-a0b7-7412e1e6f356" width=50% height=50%/> <br>
+* **M4 Screws 6mm:** - https://s.click.aliexpress.com/e/_Dc6fNQR<br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/7a8d35f7-0a65-4615-999c-56f0d5fabeb6" width=50% height=50%/> <br>
 * **Pogo Pings:** <br>
   - P50-B1 (Diameter 0.5mm) for the Small PIZZABite PCB- https://s.click.aliexpress.com/e/_DkI4xwx <br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/64858fb7-d6b7-45d9-af1d-ebda977fb757" width=50% height=50%/> <br>
