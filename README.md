@@ -12,7 +12,7 @@ The full kit is composed of:
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/f8181af5-98c1-4989-afe8-fd78e8b2d271" width=50% height=50%/> <br>
 
 The PIZZAbite PCBs be printed on JLCPCB:<br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/ab260c51-22e0-413a-a0b7-7412e1e6f356" width=30% height=30%/> <br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/71b9a328-b4fa-481e-9767-e4178c9a69ad" width=30% height=30%/> <br>
 I tried 3 types of thicknesses... 1mm (white), 1.2mm (red) and 1.6mm (green). 
 All of them works fine and even the 1mm thick version is robust!
 Just upload the **gerber.zip** file on JLCPCB and you almost done ordering it. 👍<br>
