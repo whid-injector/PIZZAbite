@@ -2,24 +2,22 @@
  A cheaper and open-hardware version of the blasoned Sensepeek's PCBite, perfect for holding your PCB while soldering or inspection.
 The full kit is composed of:
 * **A commercially-available PCB holder from Aliexpress can be found here:** https://s.click.aliexpress.com/e/_DDVXjWL<br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/e1ca7f20-8fdc-4c4f-9ebd-2d6720ee5a7b" width=50% height=50%/> <br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/b2348bab-a76c-4ece-9b54-2b0c991d9c80" width=50% height=50%/> <br>
 * **The PCBite probes PCBs:** <br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/a7be1b46-4f85-4d29-ba5c-f17fd79704be" width=50% height=50%/> <br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/ab260c51-22e0-413a-a0b7-7412e1e6f356" width=50% height=50%/> <br>
 * **Pogo Pings:** <br>
   - P50-B1 (Diameter 0.5mm) for the Small PIZZABite PCB- https://s.click.aliexpress.com/e/_DkI4xwx <br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/44827836-1bd5-4470-a107-2baecd4f8f43" width=50% height=50%/> <br>
-
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/64858fb7-d6b7-45d9-af1d-ebda977fb757" width=50% height=50%/> <br>
   - PA100-B1 (Diameter 1mm) for the Large PIZZABite PCB- https://s.click.aliexpress.com/e/_DFOzwnp <br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/1c844e22-c30f-43bc-8c24-91da0a2053a0" width=50% height=50%/> <br>
- 
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/f8181af5-98c1-4989-afe8-fd78e8b2d271" width=50% height=50%/> <br>
+
 The PIZZAbite PCBs be printed on JLCPCB:<br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/6514503c-7711-4ef0-b1b2-e5583e9b188e" width=30% height=30%/> <br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/ab260c51-22e0-413a-a0b7-7412e1e6f356" width=30% height=30%/> <br>
 I tried 3 types of thicknesses... 1mm (white), 1.2mm (red) and 1.6mm (green). 
 All of them works fine and even the 1mm thick version is robust!
-Just upload the **gerber.zip** file on JLCPCB and you almost done ordering it. 👍
-
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/e1f14e8f-3b6b-4e64-b1ac-12da536d7565" width=30% height=30%/>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/e3de7300-aab1-4135-a37c-37620133ca9a" width=30% height=30%/> <br>
+Just upload the **gerber.zip** file on JLCPCB and you almost done ordering it. 👍<br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/bae1d54c-6d88-4f02-ac90-1bb44bb976d1" width=30% height=30%/>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/2a87c37b-01fa-427c-87e4-f95feca5f2b6" width=30% height=30%/> <br>
 
 The PIZZAbite PCB probes are mounted on flexible metal arm and a powerful magnet in the base for easy positioning. 
 The one of the kind "lift and drop" function takes away the need for annoying and complicated set screws. 
