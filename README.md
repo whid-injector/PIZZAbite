@@ -1,7 +1,7 @@
 # PIZZAbite
  A cheaper and open-hardware version of the blasoned Sensepeek's PCBite, perfect for holding your PCB while soldering or inspection.
 The full kit is composed of:
-* **A commercially-available PCB holder from Aliexpress can be found here: https://s.click.aliexpress.com/e/_DDVXjWL**<br>
+* **A commercially-available PCB holder from Aliexpress can be found here:** https://s.click.aliexpress.com/e/_DDVXjWL<br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/e1ca7f20-8fdc-4c4f-9ebd-2d6720ee5a7b" width=50% height=50%/> <br>
 * **The PCBite probes PCBs:** <br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/a7be1b46-4f85-4d29-ba5c-f17fd79704be" width=50% height=50%/> <br>
