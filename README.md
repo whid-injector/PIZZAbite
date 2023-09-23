@@ -1,4 +1,4 @@
-# PIZZAbite 🍕
+# 🍕 PIZZAbite 🍕
  A cheaper and open-hardware version of the blasoned Sensepeek's PCBite, perfect for holding your PCB while soldering or inspection.
 The full kit is composed of:
 * **A commercially-available PCB holder from Aliexpress can be found here:** https://s.click.aliexpress.com/e/_DDVXjWL<br>
