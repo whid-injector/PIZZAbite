@@ -30,8 +30,9 @@ For more info... ➡ https://www.whid.ninja/store <br><br>
 [![WHID's Trainings](https://files.gandi.ws/64/2e/642e05f6-84e1-48fe-8a59-d678c7d635e3.PNG)](https://www.youtube.com/watch?v=zbUuBZJIHkE)
 
 ## Open-Hardware & KiCAD
-Since someone may want to tweak PIZZAbite size... Attached you can find the KiCAD. You are welcome!
-![image](https://github.com/whid-injector/PIZZAbite/assets/26245612/41b53a16-4ccf-4095-9aed-831716df5f71)
+Since someone may want to tweak PIZZAbite size... Attached you can find the KiCAD PCB design file. You are welcome! 😃
+![image](https://github.com/whid-injector/PIZZAbite/assets/26245612/31b90eef-71dd-45b4-8e37-df7df3b8bdd8)
+
 
 
 
