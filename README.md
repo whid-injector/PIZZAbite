@@ -6,7 +6,7 @@ The full kit is composed of:
 * **The PCBite probes PCBs:** <br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/ab260c51-22e0-413a-a0b7-7412e1e6f356" width=50% height=50%/> <br>
 * **M4 Screws 6mm:** - https://s.click.aliexpress.com/e/_Dc6fNQR<br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/7a8d35f7-0a65-4615-999c-56f0d5fabeb6" width=50% height=50%/> <br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/cd0f6098-a6e2-4770-8f20-d65c40686f39" width=50% height=50%/> <br>
 * **Pogo Pings:** <br>
   - P50-B1 (Diameter 0.5mm) for the Small PIZZABite PCB- https://s.click.aliexpress.com/e/_DkI4xwx <br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/64858fb7-d6b7-45d9-af1d-ebda977fb757" width=50% height=50%/> <br>
@@ -14,7 +14,7 @@ The full kit is composed of:
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/f8181af5-98c1-4989-afe8-fd78e8b2d271" width=50% height=50%/> <br>
 
 The PIZZAbite PCBs be printed on JLCPCB:<br>
-<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/71b9a328-b4fa-481e-9767-e4178c9a69ad" width=30% height=30%/> <br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/3ce3fd2e-4eab-4762-a277-048e0af1e87e" width=30% height=30%/> <br>
 I tried 3 types of thicknesses... 1mm (white), 1.2mm (red) and 1.6mm (green). 
 All of them works fine and even the 1mm thick version is robust!
 Just upload the **gerber.zip** file on JLCPCB and you almost done ordering it. 👍<br>
