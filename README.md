@@ -38,6 +38,12 @@ For more info... ➡ https://www.whid.ninja/store <br><br>
 Since someone may want to tweak PIZZAbite size... Attached you can find the KiCAD PCB design file. You are welcome! 😃
 ![image](https://github.com/whid-injector/PIZZAbite/assets/26245612/31b90eef-71dd-45b4-8e37-df7df3b8bdd8)
 
+## PCB Workstation 3D Printed
+Here you can find a DIY PCB Workstation compatible with PIZZAbite!<br>
+https://www.thingiverse.com/thing:6508356<br>
+[Based on the great work of https://www.thingiverse.com/giufini/designs ]<br>
+<img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/0b06ced7-565c-4f44-8515-103e6eec9c2c" width=50% height=30%/>
+
 
 
 
