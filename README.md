@@ -44,6 +44,18 @@ https://www.thingiverse.com/thing:6508356<br>
 [Based on the great work of https://www.thingiverse.com/giufini/designs ]<br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/0b06ced7-565c-4f44-8515-103e6eec9c2c" width=50% height=30%/>
 
+**Screws and Nuts needed for the Hex Base + Holders:**<br>
+- x4 Hex Screw M5x12mm https://s.click.aliexpress.com/e/_DC7sqYT<br>
+- x4 Washer M5 https://s.click.aliexpress.com/e/_DDbUWLD<br>
+- x4 Wing Nut M5 https://s.click.aliexpress.com/e/_DmdrBUf<br>
+
+**Screws and Nuts needed for 6x Arms:**<br>
+- x6 Hex Screw M5x12mm https://s.click.aliexpress.com/e/_DC7sqYT<br>
+- x6 Washer M5 https://s.click.aliexpress.com/e/_DDbUWLD<br>
+- x6 Wing Nut M5 https://s.click.aliexpress.com/e/_DmdrBUf<br>
+- x6 Wood Screw 2x6mm https://it.aliexpress.com/item/1005002306042593.html<br>
+- x6 Thumb Screw M2x10mm https://s.click.aliexpress.com/e/_DDPk1I3<br>
+- x6 Thumb Nut M2 https://it.aliexpress.com/item/4000284851766.html<br>
 
 
 
