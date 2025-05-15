@@ -23,7 +23,7 @@ All of them works fine and even the 1mm thick version is robust!
 Just upload the **gerber.zip** file on JLCPCB and you almost done ordering it. 👍<br>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/bae1d54c-6d88-4f02-ac90-1bb44bb976d1" width=30% height=30%/>
 <img src="https://github.com/whid-injector/PIZZAbite/assets/26245612/2a87c37b-01fa-427c-87e4-f95feca5f2b6" width=30% height=30%/>
-<img src="https://github.com/user-attachments/assets/865a5ad0-e277-4ed8-88a7-dd621ec479a4" width=30% height=30%/> <br>
+<img src="https://github.com/user-attachments/assets/865a5ad0-e277-4ed8-88a7-dd621ec479a4" width=22.5% height=22.5%/> <br>
 
 The PIZZAbite PCB probes are mounted on flexible metal arm and a powerful magnet in the base for easy positioning. 
 The one of the kind "lift and drop" function takes away the need for annoying and complicated set screws. 
